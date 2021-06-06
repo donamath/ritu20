@@ -1,7 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![image](https://user-images.githubusercontent.com/50779354/120908617-92c2ef00-c689-11eb-98d8-04fa4704ec82.png)
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -58,6 +56,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
-
-![image](https://user-images.githubusercontent.com/50779354/120908571-2647f000-c689-11eb-91cd-b2a16d409494.png)
-
